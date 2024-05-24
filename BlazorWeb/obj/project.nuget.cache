@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lrdkpF3ByDY=",
+  "dgSpecHash": "9oEVuzSiC9M=",
   "success": true,
-  "projectFilePath": "D:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj",
+  "projectFilePath": "d:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkraw\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.5\\microsoft.aspnetcore.authorization.8.0.5.nupkg.sha512",
     "C:\\Users\\mkraw\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.5\\microsoft.aspnetcore.components.8.0.5.nupkg.sha512",

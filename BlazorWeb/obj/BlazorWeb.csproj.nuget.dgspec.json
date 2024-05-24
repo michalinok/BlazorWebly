@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj": {}
+    "d:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj": {}
   },
   "projects": {
-    "D:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj": {
+    "d:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj",
+        "projectUniqueName": "d:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj",
         "projectName": "BlazorWeb",
-        "projectPath": "D:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj",
+        "projectPath": "d:\\BlazorWeb\\BlazorWeb\\BlazorWeb.csproj",
         "packagesPath": "C:\\Users\\mkraw\\.nuget\\packages\\",
-        "outputPath": "D:\\BlazorWeb\\BlazorWeb\\obj\\",
+        "outputPath": "d:\\BlazorWeb\\BlazorWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkraw\\AppData\\Roaming\\NuGet\\NuGet.Config",
